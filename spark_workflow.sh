@@ -1,9 +1,9 @@
 #!/bin/sh
-files="../../blk00088.dat ../../blk00089.dat"
+files="blk00000.dat blk00001"
 echo "###### Spark Parsing Workflow Starts... ######"
 spark-submit \
   --master local[4] \
-  spark_parser.py ../../blk00800.dat &&
+  spark_parser.py files &&
 # Better Data Storage:
 cat csv/inputs_mapping/part* | sed -e '/^ *$/d' > csv/inputs_mapping.csv &&
 cat csv/outputs/part* | sed -e '/^ *$/d' > csv/outputs.csv &&
