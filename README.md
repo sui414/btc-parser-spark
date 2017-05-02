@@ -18,7 +18,7 @@ python tx-structure.py
 
 Your will see something like below. It may not exactly as this, because it depends on the input file in `spark_workflow.sh`.
 
-![fig2-0.png]()
+![https://github.com/pw2393/btc-parser-spark/blob/master/fig2-0.png]()
 
 
 Have fun.
