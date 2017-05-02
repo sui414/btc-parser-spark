@@ -36,6 +36,7 @@ For further visualization use, the transaction data are processed into network d
     + Here is one visualization example of transaction flow map on Tableau: [Let the Bitcoin Flow!](https://public.tableau.com/profile/danning.sui#!/vizhome/LetTheBitcoinFlow/LetTheBitcoinFlow)
     
     + Here is one dynamic illustration:
+    
        <img src="https://github.com/pw2393/btc-parser-spark/blob/master/flow.gif" width="500">
 
  
