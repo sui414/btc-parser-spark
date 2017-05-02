@@ -23,9 +23,9 @@ Your will see something like below. It's maybe not exactly as this, because it d
 Have fun!
 
 -------
-For further visualization use, the transaction data are processed into network data (source, weight, target), which is standard input format for various network graph analysis tool. Also since the datasize is huge, we highly recommend well-developed tools like 
+For further visualization use, the transaction data are processed into network data (source, weight, target), which is standard input format for various network graph analysis tools. Also since the datasize is huge, we highly recommend well-developed tools like 
   * [Gephi](https://gephi.org)
   * [Cytoscape](http://www.cytoscape.org)
   * [Tableau](https://www.tableau.com/)
-    + Here is one visualization example of transaction flow map on Tableau:[Let the Bitcoin Flow!](https://public.tableau.com/profile/danning.sui#!/vizhome/LetTheBitcoinFlow/LetTheBitcoinFlow)
+    + Here is one visualization example of transaction flow map on Tableau: [Let the Bitcoin Flow!](https://public.tableau.com/profile/danning.sui#!/vizhome/LetTheBitcoinFlow/LetTheBitcoinFlow)
  
