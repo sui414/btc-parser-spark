@@ -46,10 +46,10 @@ import matplotlib.pyplot as plt
 
 
 ############## MODIFIABLE PART #############
-target = '85e78d04ab8f94bc7e59dd9ad188bc426698842ce5ec50e1a0d19e386b8677ec'
+target = 'f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16'
 levels_down = 1
-levels_up = 1
-input_file_folder = "../../csv-2013-10-25/"
+levels_up = 3
+input_file_folder = "csv/"
 ##############################################
 
 
