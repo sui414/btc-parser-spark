@@ -16,8 +16,8 @@ Next run
 python tx-structure.py
 ```
 
-Your will see something like below. It may not exactly as this, because it depends on the input file in `spark_workflow.sh`.
+Your will see something like below. It's maybe not exactly as this, because it depends on the input file in `spark_workflow.sh`.
 
 <img src="https://github.com/pw2393/btc-parser-spark/blob/master/fig2-0.png" width="250">
 
-Have fun.
+Have fun!
