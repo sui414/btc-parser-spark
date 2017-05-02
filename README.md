@@ -1,8 +1,8 @@
-## Parse Bitcoin -- in a fast and distributed way
+## Parse & Viz Bitcoin -- in a fast and distributed way
 
 This is a fast bitcoin parser for bitcoin, for visualization and analysis of the transaction structures.
 
-Co-author: Peng Wu (pw2393), Danning Sui (ds3516)
+* Co-author: Peng Wu (pw2393), Danning Sui (ds3516)
 
 Before use this, prepare the bitcoin raw data, in `blkXXXXX.dat` format.
 
