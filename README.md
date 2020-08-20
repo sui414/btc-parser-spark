@@ -37,6 +37,6 @@ For further visualization use, the transaction data are processed into network d
     
     + Here is one dynamic illustration:
     
-       <img src="https://github.com/pw2393/btc-parser-spark/blob/master/flow.gif" width="500">
+       <img src="https://github.com/sui414/btc-parser-spark/blob/master/flow.gif" width="500">
 
  
